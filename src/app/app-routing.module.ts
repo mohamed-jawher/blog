@@ -4,7 +4,7 @@ import { LoginComponent } from './login/login.component';
 import { LandingPageComponentComponent } from './landing-page-component/landing-page-component.component';
 const routes: Routes = [ 
   {path: '', component: LandingPageComponentComponent},
-  {path:'login',component:LoginComponent}
+  {path:'login',component:LoginComponent},
   
 ];
 
